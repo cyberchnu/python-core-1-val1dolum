@@ -1,3 +1,5 @@
 def addition(param1, param2):
-  # Type your code
-  return
+    return param1 + param2
+print(addition(4, -7))
+print(addition(-25, 25))
+print(addition(9, 8))
